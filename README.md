@@ -1,4 +1,4 @@
-# Memory Game
+# Memory Game (VERY DIFFICULT)
  
 Messing around with Pygame 
 
