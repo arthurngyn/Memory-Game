@@ -39,6 +39,8 @@ Run the game by executing the main script:
 
 ```bash
 python main.py
+```
+
 
 ## Code Structure
 
